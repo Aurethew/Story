@@ -1,0 +1,9 @@
+git command 
+
+git init 
+git status
+git add chapter1.txt
+git commit -m "complete chapter 1"
+git log
+
+
