@@ -5,5 +5,12 @@ git status
 git add chapter1.txt
 git commit -m "complete chapter 1"
 git log
+git checkout 
+git diff chapter2.txt
+git remote add origin https://github.com/Aurethew/Story.git
+git push -u origin main 
+git branch 
+git checkout "file name"
+
 
 
